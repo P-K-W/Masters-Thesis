@@ -1,2 +1,2 @@
 # Masters-Thesis
-Repository for code for master's thesis
+Repository for code of my master's thesis.
