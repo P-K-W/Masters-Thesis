@@ -1,0 +1,654 @@
+{
+    "sub-01": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb0986/hcp/pb0986/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-02": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1020/hcp/pb1020/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-03": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1118/hcp/pb1118/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-04": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1135/hcp/pb1135/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-05": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1237/hcp/pb1237/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-06": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1269/hcp/pb1269/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-07": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1282/hcp/pb1282/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-08": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1390/hcp/pb1390/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-09": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1471/hcp/pb1471/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-10": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1480/hcp/pb1480/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-11": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1595/hcp/pb1595/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-12": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1648/hcp/pb1648/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-13": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1699/hcp/pb1699/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-14": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1728/hcp/pb1728/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-15": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1759/hcp/pb1759/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-16": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1871/hcp/pb1871/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-17": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1957/hcp/pb1957/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-18": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb1981/hcp/pb1981/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-19": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2058/hcp/pb2058/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-20": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2127/hcp/pb2127/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-21": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2136/hcp/pb2136/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-22": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2235/hcp/pb2235/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-23": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2266/hcp/pb2266/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-24": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2351/hcp/pb2351/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-25": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2393/hcp/pb2393/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-26": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2481/hcp/pb2481/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-27": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2600/hcp/pb2600/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-28": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2706/hcp/pb2706/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-29": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb2873/hcp/pb2873/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-30": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3003/hcp/pb3003/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-31": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3058/hcp/pb3058/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-32": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3164/hcp/pb3164/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-33": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3213/hcp/pb3213/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-34": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3225/hcp/pb3225/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-35": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3265/hcp/pb3265/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-36": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3318/hcp/pb3318/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-37": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3329/hcp/pb3329/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-38": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3409/hcp/pb3409/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-39": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3464/hcp/pb3464/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-40": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3546/hcp/pb3546/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-41": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3642/hcp/pb3642/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-42": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3821/hcp/pb3821/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-43": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3868/hcp/pb3868/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-44": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3873/hcp/pb3873/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-45": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3883/hcp/pb3883/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-46": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3935/hcp/pb3935/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-47": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3955/hcp/pb3955/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-48": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3976/hcp/pb3976/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-49": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb3984/hcp/pb3984/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-50": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4059/hcp/pb4059/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-51": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4074/hcp/pb4074/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-52": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4116/hcp/pb4116/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-53": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4165/hcp/pb4165/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-54": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4246/hcp/pb4246/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-55": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4349/hcp/pb4349/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-56": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4589/hcp/pb4589/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-57": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4591/hcp/pb4591/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-58": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4633/hcp/pb4633/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-59": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4635/hcp/pb4635/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-60": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4675/hcp/pb4675/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-61": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb4749/hcp/pb4749/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-62": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb6855/hcp/pb6855/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-63": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7058/hcp/pb7058/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-64": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7117/hcp/pb7117/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-65": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7151/hcp/pb7151/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-66": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7208/hcp/pb7208/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-67": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7292/hcp/pb7292/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-68": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7364/hcp/pb7364/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-69": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7391/hcp/pb7391/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-70": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7399/hcp/pb7399/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-71": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7408/hcp/pb7408/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-72": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7457/hcp/pb7457/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-73": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/BlackThorn/subjects/pb7552/hcp/pb7552/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-74": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/pb1833/hcp/pb1833/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-75": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/pb2068/hcp/pb2068/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-76": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/pb2119/hcp/pb2119/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-77": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/pb2213/hcp/pb2213/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-78": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta5863/hcp/ta5863/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-79": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6195/hcp/ta6195/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-80": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6220/hcp/ta6220/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-81": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6247/hcp/ta6247/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-82": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6294/hcp/ta6294/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-83": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6327/hcp/ta6327/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-84": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6421/hcp/ta6421/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-85": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6458/hcp/ta6458/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-86": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6494/hcp/ta6494/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-87": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6499/hcp/ta6499/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-88": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6558/hcp/ta6558/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-89": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6591/hcp/ta6591/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-90": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6609/hcp/ta6609/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-91": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6620/hcp/ta6620/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-92": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6685/hcp/ta6685/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-93": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6695/hcp/ta6695/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-94": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6719/hcp/ta6719/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-95": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6747/hcp/ta6747/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-96": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6844/hcp/ta6844/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-97": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6950/hcp/ta6950/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-98": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6962/hcp/ta6962/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-99": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta6986/hcp/ta6986/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-100": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7101/hcp/ta7101/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-101": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7131/hcp/ta7131/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-102": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7173/hcp/ta7173/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-103": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7283/hcp/ta7283/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-104": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7356/hcp/ta7356/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-105": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7480/hcp/ta7480/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-106": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7546/hcp/ta7546/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-107": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7624/hcp/ta7624/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-108": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7625/hcp/ta7625/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-109": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7645/hcp/ta7645/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-110": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7654/hcp/ta7654/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-111": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7730/hcp/ta7730/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-112": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7758/hcp/ta7758/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-113": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7806/hcp/ta7806/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-114": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7832/hcp/ta7832/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-115": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7860/hcp/ta7860/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-116": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7899/hcp/ta7899/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-117": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta7932/hcp/ta7932/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-118": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pittenger.OCD.MB/subjects/ta8356/hcp/ta8356/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-119": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb7806/hcp/pb7806/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-120": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb7825/hcp/pb7825/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-121": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb7865/hcp/pb7865/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-122": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb7906/hcp/pb7906/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-123": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb7949/hcp/pb7949/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-124": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8144/hcp/pb8144/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-125": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8182/hcp/pb8182/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-126": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8212/hcp/pb8212/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-127": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8228/hcp/pb8228/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-128": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8240/hcp/pb8240/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-129": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8266/hcp/pb8266/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-130": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8333/hcp/pb8333/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-131": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8382/hcp/pb8382/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-132": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8408/hcp/pb8408/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-133": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8462/hcp/pb8462/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-134": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8502/hcp/pb8502/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-135": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8558/hcp/pb8558/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-136": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8565/hcp/pb8565/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-137": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8592/hcp/pb8592/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-138": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8667/hcp/pb8667/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-139": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8689/hcp/pb8689/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-140": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8772/hcp/pb8772/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-141": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8819/hcp/pb8819/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-142": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8833/hcp/pb8833/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-143": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8863/hcp/pb8863/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-144": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8954/hcp/pb8954/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-145": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb8976/hcp/pb8976/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-146": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9124/hcp/pb9124/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-147": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9148/hcp/pb9148/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-148": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9183/hcp/pb9183/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-149": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9275/hcp/pb9275/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-150": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9410/hcp/pb9410/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-151": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9426/hcp/pb9426/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-152": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9458/hcp/pb9458/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-153": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9478/hcp/pb9478/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-154": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9499/hcp/pb9499/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-155": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9573/hcp/pb9573/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-156": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9580/hcp/pb9580/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-157": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9593/hcp/pb9593/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-158": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9619/hcp/pb9619/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-159": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9621/hcp/pb9621/MNINonLinear/Results/7/7.nii.gz"
+    },
+    "sub-160": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9668/hcp/pb9668/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-161": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9682/hcp/pb9682/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-162": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9712/hcp/pb9712/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-163": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9755/hcp/pb9755/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-164": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9793/hcp/pb9793/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-165": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9843/hcp/pb9843/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-166": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9915/hcp/pb9915/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-167": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9924/hcp/pb9924/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-168": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb9964/hcp/pb9964/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-169": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10002/hcp/pb10002/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-169": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10043/hcp/pb10043/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-170": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10377/hcp/pb10377/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-171": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10416/hcp/pb10416/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-172": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10513/hcp/pb10513/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-173": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10829/hcp/pb10829/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-174": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb10955/hcp/pb10955/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-175": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/sessions/pb11874/hcp/pb11874/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-176": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1047/hcp/pb1047/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-177": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1099/hcp/pb1099/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-178": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1196/hcp/pb1196/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-179": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1331/hcp/pb1331/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-180": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1514/hcp/pb1514/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-181": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1719/hcp/pb1719/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-182": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1888/hcp/pb1888/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-183": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb1969/hcp/pb1969/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-184": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2078/hcp/pb2078/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-185": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2081/hcp/pb2081/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-186": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2257/hcp/pb2257/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-187": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2327/hcp/pb2327/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-188": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2444/hcp/pb2444/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-189": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2467/hcp/pb2467/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-190": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2552/hcp/pb2552/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-191": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2562/hcp/pb2562/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-192": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2568/hcp/pb2568/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-193": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2604/hcp/pb2604/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-194": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2636/hcp/pb2636/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-195": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2654/hcp/pb2654/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-196": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2656/hcp/pb2656/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-197": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2665/hcp/pb2665/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-198": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2749/hcp/pb2749/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-199": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2768/hcp/pb2768/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-200": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2851/hcp/pb2851/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-201": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2893/hcp/pb2893/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-202": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb2953/hcp/pb2953/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-203": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3005/hcp/pb3005/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-204": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3063/hcp/pb3063/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-205": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3117/hcp/pb3117/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-206": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3167/hcp/pb3167/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-207": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3215/hcp/pb3215/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-208": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3267/hcp/pb3267/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-209": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3467/hcp/pb3467/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-210": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3551/hcp/pb3551/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-211": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3768/hcp/pb3768/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-212": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb3872/hcp/pb3872/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-213": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb4030/hcp/pb4030/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-214": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb4120/hcp/pb4120/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-215": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb4168/hcp/pb4168/MNINonLinear/Results/1/1.nii.gz"
+    },
+    "sub-216": {
+        "run-01": "/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.RA/sessions/pb4267/hcp/pb4267/MNINonLinear/Results/1/1.nii.gz"
+    }
+}
+
