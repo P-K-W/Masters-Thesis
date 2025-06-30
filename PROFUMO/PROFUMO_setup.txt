@@ -1,0 +1,15 @@
+### Access PROFUMO
+
+# Change directory
+cd /gpfs/gibbs/pi/n3/software/profumo
+
+# Enter Container
+singularity shell --cleanenv --shell /bin/bash profumo.sif --noprofile --norc
+
+### To check if successfully entered the container
+
+PROFUMO --help
+
+or 
+
+postprocess_results.py --help

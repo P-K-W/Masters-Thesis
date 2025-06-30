@@ -1,0 +1,4 @@
+### Postprocess step of PROFUMO after .pfm file is generated
+
+postprocess_results.py --web-report \
+/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/full_analysis_unharm_HC+OCD.pfm/  /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/full_analysis_unharm_HC+OCD.ppp /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/templates/MNI152_T1_2mm.nii.gz
