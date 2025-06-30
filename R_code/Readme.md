@@ -1,1 +1,1 @@
-R code for data analysis & visualization and SVM models used in my master's thesis. 
+The folder stores the R code for data analysis & visualization as well as SVM models.
