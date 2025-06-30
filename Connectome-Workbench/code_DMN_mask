@@ -1,0 +1,59 @@
+wb_command -cifti-math 'x' \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_65.dscalar.nii \
+    -var x /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/GlasserParcellation/all_subcortexstruct.dscalar.nii -select 1 65 
+
+wb_command -cifti-math 'x' \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_245.dscalar.nii \
+    -var x /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/GlasserParcellation/all_subcortexstruct.dscalar.nii -select 1 245
+
+wb_command -cifti-math 'x' \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_88.dscalar.nii \
+    -var x /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/GlasserParcellation/all_subcortexstruct.dscalar.nii -select 1 88
+
+wb_command -cifti-math 'x' \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_268.dscalar.nii \
+    -var x /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/GlasserParcellation/all_subcortexstruct.dscalar.nii -select 1 268 
+
+wb_command -cifti-math 'x' \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_35.dscalar.nii \
+    -var x /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/GlasserParcellation/all_subcortexstruct.dscalar.nii -select 1 35
+
+wb_command -cifti-math 'x' \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_215.dscalar.nii \
+    -var x /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/GlasserParcellation/all_subcortexstruct.dscalar.nii -select 1 215
+
+wb_command -cifti-merge \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask.dscalar.nii \
+	-cifti /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_65.dscalar.nii \
+	-cifti /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_245.dscalar.nii \
+	-cifti /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_88.dscalar.nii \
+	-cifti /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_268.dscalar.nii \
+	-cifti /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_35.dscalar.nii \
+	-cifti /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_215.dscalar.nii 
+
+#code for converting cifti DMN to nifti DMN
+
+wb_command -cifti-label-import \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask.dscalar.nii \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Labels.txt \
+    /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask.dlabel.nii 
+
+wb_command -cifti-separate /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask.dlabel.nii COLUMN \
+    -label CORTEX_LEFT /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_Left.label.gii \
+    -label CORTEX_RIGHT /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_Right.label.gii
+
+wb_command -label-to-volume-mapping /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_Right.label.gii \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/Q1-Q6_R440.R.midthickness.32k_fs_LR.surf.gii \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/average_rest1_T1/avg_T1.nii.gz \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_R.nii.gz \
+	-nearest-vertex 2
+
+wb_command -label-to-volume-mapping /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_Left.label.gii \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/Q1-Q6_R440.L.midthickness.32k_fs_LR.surf.gii \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/average_rest1_T1/avg_T1.nii.gz \
+	/gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_L.nii.gz \
+	-nearest-vertex 2
+
+fslmaths /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_L.nii.gz \
+    -add /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask_R.nii.gz \
+    -bin /gpfs/gibbs/pi/n3/Studies/Pushkarskaya.PVDM/analysis/DMN_Mask/DMN_Mask.nii.gz
